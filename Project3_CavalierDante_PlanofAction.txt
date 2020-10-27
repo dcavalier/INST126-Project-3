@@ -1,0 +1,10 @@
+New text files for each of the insights:
+(suspicious_report.txt), (irresponsible_report.txt), (glitch_report.txt), (domain_report.txt).
+
+A seperate function for each new text file to read the original file and do whatever specified for said new text file.
+
+Read and close the original text file after each new text file.
+
+Input functiuon to declare which insight report to view. 
+
+
